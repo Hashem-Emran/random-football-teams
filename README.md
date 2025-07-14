@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 "# random-football-teams" 
 
-how to add # ⚽ Football Team Randomizer
+##  how to add # ⚽ Football Team Randomizer
 
 A fun and interactive React application that allows two players to randomly get assigned to professional football teams from popular leagues. Featuring smooth animations, intuitive UI, and beautiful team logos!
 
