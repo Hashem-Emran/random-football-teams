@@ -358,6 +358,7 @@ const FootballTeamRandomizer = () => {
               </div>
             )}
           </div>
+          
 
           {/* Attempts Counter */}
           {attempts > 0 && (
